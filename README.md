@@ -48,7 +48,3 @@ The controller is electrically compatible with both the ANSI and JP version of t
 Pay attention at the time or ordering the PCBs to populate only one of the 2 connectors:
   * `S13B-ZR-SM4A-TF` for ANSI
   * `DF14A-15P-1.25H` for JP
-
-## Copyright notice
-
-This project is released under the MIT License. For the license, please refer to the LICENCE.md file.
